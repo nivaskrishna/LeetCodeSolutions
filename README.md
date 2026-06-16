@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
@@ -44,6 +45,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
