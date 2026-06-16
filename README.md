@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Binary Search
