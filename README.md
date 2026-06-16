@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
