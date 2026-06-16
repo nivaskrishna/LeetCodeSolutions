@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -37,6 +38,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
