@@ -36,6 +36,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
