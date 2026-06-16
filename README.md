@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -19,11 +21,13 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -38,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
