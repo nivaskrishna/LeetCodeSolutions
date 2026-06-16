@@ -77,4 +77,28 @@
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
