@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0132-palindrome-partitioning-ii](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
@@ -58,6 +59,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
