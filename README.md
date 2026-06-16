@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -69,6 +71,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +81,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -127,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
