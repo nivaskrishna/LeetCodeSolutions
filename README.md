@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Counting
@@ -53,8 +55,13 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
