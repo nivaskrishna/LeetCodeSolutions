@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -76,6 +77,7 @@
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
