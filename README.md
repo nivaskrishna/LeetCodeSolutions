@@ -32,6 +32,7 @@
 | [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2843-count-symmetric-integers/) | Easy |
+| [3099-harshad-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
