@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -43,6 +44,7 @@
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
