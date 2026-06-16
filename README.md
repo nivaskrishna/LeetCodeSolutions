@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -51,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
