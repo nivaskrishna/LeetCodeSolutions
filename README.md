@@ -29,6 +29,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0258-add-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
