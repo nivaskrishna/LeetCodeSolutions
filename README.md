@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2843-count-symmetric-integers/) | Easy |
 <!---LeetCode Topics End-->
