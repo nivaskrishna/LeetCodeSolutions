@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
