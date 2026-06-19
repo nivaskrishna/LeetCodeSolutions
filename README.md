@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -40,6 +41,7 @@
 | [0258-add-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0507-perfect-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3099-harshad-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
