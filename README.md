@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -57,6 +58,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -85,6 +87,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
