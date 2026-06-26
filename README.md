@@ -21,6 +21,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2418-sort-the-people](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2418-sort-the-people/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
+| [2418-sort-the-people](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2418-sort-the-people/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@
 | [0383-ransom-note](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
+| [2418-sort-the-people](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -94,6 +97,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0389-find-the-difference/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2418-sort-the-people](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
