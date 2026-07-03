@@ -114,11 +114,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -153,4 +156,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
