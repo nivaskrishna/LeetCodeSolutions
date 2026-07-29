@@ -168,4 +168,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0182-duplicate-emails/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
