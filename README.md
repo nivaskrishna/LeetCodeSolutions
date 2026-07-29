@@ -164,4 +164,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
