@@ -44,6 +44,7 @@
 | [0258-add-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3099-harshad-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/3099-harshad-number/) | Easy |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0392-is-subsequence](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +183,12 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nivaskrishna/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
